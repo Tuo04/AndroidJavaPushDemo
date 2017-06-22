@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidJavaPush1</string>
+    <string name="push_toast">Push clicked with data=%1s</string>
+</resources>
